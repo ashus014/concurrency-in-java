@@ -8,4 +8,6 @@ Every thread has a thread stack.
 
 Concurrency basically means that one task doesn't have to complete for the other one to start.
 
+###Second way of using Implementing Multithreading is implementing Runnable Interface.
+
 
